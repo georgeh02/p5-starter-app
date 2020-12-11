@@ -9,6 +9,11 @@ header {
   margin: 20px;
 }
 
+h1 {
+  font-family: Demonized;
+  src: url("https://cdn.glitch.com/501ab798-ebe0-4f8e-b6b6-45b6f6472e12%2FDemonized.ttf?v=1607670895357");
+}
+
 footer {
   font-style: italic;
   font-size: 10px;
